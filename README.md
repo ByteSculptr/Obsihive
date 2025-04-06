@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sure! Here's a fully rewritten version of the README, tailored as if **ObsiHive** is a self-built, original project without any trace of Vercel’s template origin:
 
 ---
@@ -139,3 +140,6 @@ This project is open-source and MIT licensed.
 Check out the live instance: [chat.obsihive.ai](https://chat.obsihive.ai)
 
 ---
+=======
+# Obsihive
+>>>>>>> 8699a15a89c5a86fb7171c67c1af4ab766add0df
